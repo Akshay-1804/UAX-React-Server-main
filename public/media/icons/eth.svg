@@ -1,0 +1,20 @@
+<svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="eth" clip-path="url(#clip0_63_486)">
+<g id="Group">
+<path id="Vector" d="M10 20.5C15.5228 20.5 20 16.0228 20 10.5C20 4.97715 15.5228 0.5 10 0.5C4.47715 0.5 0 4.97715 0 10.5C0 16.0228 4.47715 20.5 10 20.5Z" fill="#627EEA"/>
+<g id="Group_2">
+<path id="Vector_2" d="M10.311 3V8.54375L14.9967 10.6375L10.311 3Z" fill="white" fill-opacity="0.602"/>
+<path id="Vector_3" d="M10.3112 3L5.625 10.6375L10.3112 8.54375V3Z" fill="white"/>
+<path id="Vector_4" d="M10.311 14.23V17.9969L14.9998 11.51L10.311 14.23Z" fill="white" fill-opacity="0.602"/>
+<path id="Vector_5" d="M10.3112 17.9969V14.2294L5.625 11.51L10.3112 17.9969Z" fill="white"/>
+<path id="Vector_6" d="M10.311 13.3581L14.9967 10.6375L10.311 8.54498V13.3581Z" fill="white" fill-opacity="0.2"/>
+<path id="Vector_7" d="M5.625 10.6375L10.3112 13.3581V8.54498L5.625 10.6375Z" fill="white" fill-opacity="0.602"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_63_486">
+<rect width="20" height="20" fill="white" transform="translate(0 0.5)"/>
+</clipPath>
+</defs>
+</svg>

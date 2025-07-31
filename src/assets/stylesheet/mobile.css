@@ -1,0 +1,29 @@
+@media screen and (max-width: 1150px) {
+    th {
+        padding: 8px 22px;
+    }
+
+    td {
+        padding: 4px 22px;
+    }
+}
+
+@media screen and (max-width: 940px) {
+    table {
+        width: 100%;
+    }
+
+    th {
+        text-align: start;
+    }
+}
+
+@media screen and (max-width: 512px) {
+    .auth-box {
+        min-width: 100%;
+    }
+
+    h6 {
+        font-size: 13px;
+    }
+}
